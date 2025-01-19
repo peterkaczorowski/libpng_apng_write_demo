@@ -1,4 +1,4 @@
-# libpng_apng_write_demo
+# libpng_apng Write Demo
 
 ## Purpose
 This repository contains a demonstration program that uses the **libpng** library to create a two-layer APNG (Animated PNG) file from two input PNG files.
